@@ -5,7 +5,8 @@ This project is a Java-based web application for an online bookstore. It allows 
 
 ---
 
-## Technologies Used
+## Tools & Environment
+- IDE: Visual Studio Code
 - Java (Servlets)
 - HTML, CSS
 - Apache Tomcat (web server)
