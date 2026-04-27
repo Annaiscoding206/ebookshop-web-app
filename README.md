@@ -1,11 +1,11 @@
 # 📚 E-Bookshop Web Application
 
-## 📌 Overview
+## Overview
 This project is a Java-based web application for an online bookstore. It allows users to browse books, register/login, add items to cart, and place orders, with data stored in a MySQL database.
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 - Java (Servlets)
 - HTML, CSS
 - Apache Tomcat (web server)
